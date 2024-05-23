@@ -2,7 +2,7 @@
 
 ### 🛠️ About Me
 
-I'm a Software Engineer specializing in Full-Stack Web Development and Artificial Intelligence, currently focusing on the exciting field of Generative AI to create innovative solutions.
+I'm a Software Engineer specializing in Full Stack Web Development and Artificial Intelligence, currently focusing on the exciting field of Generative AI to create innovative solutions.
 
 ### 📬 Let's Connect!
 
